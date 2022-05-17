@@ -1,0 +1,48 @@
+"D:\games)\PyCharm Community Edition 2021.3.2\lab5\venv\Scripts\python.exe" "D:/games)/PyCharm Community Edition 2021.3.2/lab5/main.py"
+enter even a number rows/columns of the square matrix, that greater than 3 and less than 500: 4
+Enter ratio: 2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+matrix A: 
+ [[0 0 0 0]
+ [0 0 0 0]
+ [0 0 0 0]
+ [0 0 0 0]] 
+time:  8.135086297988892
+matrix F:
+ [[0 0 0 0]
+ [0 0 0 0]
+ [0 0 0 0]
+ [0 0 0 0]] 
+time:  0.0
+first condition was fulfilled
+New matrix F: 
+ [[0 0 0 0]
+ [0 0 0 0]
+ [0 0 0 0]
+ [0 0 0 0]] 
+time:  0.0
+further calculation is impossible. the determinant is zero
+result matrix: 
+ [[0 0 0 0]
+ [0 0 0 0]
+ [0 0 0 0]
+ [0 0 0 0]]
+
+Program time: 8.136085033416748 seconds.
+
+Process finished with exit code 0

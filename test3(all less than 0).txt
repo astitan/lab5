@@ -1,0 +1,49 @@
+"D:\games)\PyCharm Community Edition 2021.3.2\lab5\venv\Scripts\python.exe" "D:/games)/PyCharm Community Edition 2021.3.2/lab5/main.py"
+enter even a number rows/columns of the square matrix, that greater than 3 and less than 500: 4
+Enter ratio: 2
+-2
+-5
+-6
+-4
+-1
+-2
+-2
+-2
+-6
+-5
+-8
+-9
+-9
+-8
+-5
+-5
+matrix A: 
+ [[-2 -5 -6 -4]
+ [-1 -2 -2 -2]
+ [-6 -5 -8 -9]
+ [-9 -8 -5 -5]] 
+time:  14.37114429473877
+matrix F:
+ [[-2 -5 -6 -4]
+ [-1 -2 -2 -2]
+ [-6 -5 -8 -9]
+ [-9 -8 -5 -5]] 
+time:  0.0
+second condition was fulfilled
+New matrix F: 
+ [[-8 -9 -6 -4]
+ [-5 -5 -2 -2]
+ [-6 -5 -2 -5]
+ [-9 -8 -1 -2]] 
+time:  0.0
+the first formula: A^-1*AT – K * F^-1
+
+result matrix: 
+ [[  1.72829922 -20.85956246  -0.72759351  -0.1863091 ]
+ [ -1.27028934  23.70853917   1.89696542   1.55751588]
+ [ -2.98023994 -13.04657728  -3.25617502  -4.58645025]
+ [  4.27099506   8.07551164   3.91531404   4.81439661]]
+
+Program time: 14.372139930725098 seconds.
+
+Process finished with exit code 0
